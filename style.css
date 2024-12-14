@@ -1,4 +1,4 @@
-body {
+.time {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,5 +8,5 @@ body {
   color: rgb(255, 0, 0);
 }
 #clock {
-  font-size: 4em;
+  font-size: 100px;
 }
